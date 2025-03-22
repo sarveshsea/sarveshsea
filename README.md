@@ -21,24 +21,6 @@ Data-driven Product Designer with expertise in UX/UI design, software developmen
 - **University of Pennsylvania** | M.S. in Computer and Information Technology *(Expected Dec 2026)*
 - **University of Texas at Austin** | B.S. in Advertising, Specialization: Interaction Design *(Dec 2024)*
 
-## Experience
-
-**PayCom** | Associate Product Designer *(Jan 2025 – Present)*
-- Utilizing SQL and data analytics to identify trends and optimize workflows
-- Designing high-fidelity prototypes in Figma with a user-centric approach
-
-**Texas Immersive Institute** | Lead Developer *(Mar 2023 - May 2024)*
-- Developed control modules using Python and TouchDesigner
-- Led AR prototyping for Dell Experience campaign
-
-**EBSCO** | Data Analytics & Research Intern *(Aug 2023 - Dec 2023)*
-- Extracted and analyzed data using Alteryx
-- Developed predictive ML models in Python
-
-**UI Global Brands** | Digital Analytics Intern *(Aug 2020 - May 2023)*
-- Used Python and MySQL to analyze marketing campaign performance
-- Created Tableau dashboards to track and visualize campaign success
-
 ## Technical Skills
 
 <div align="center">
