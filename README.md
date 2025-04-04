@@ -84,15 +84,6 @@ Data-driven Product Designer with expertise in UX/UI design, software developmen
 - 2023 PwC & Niantic Buildfest 1st Place Winner
 - Tom and Bitsey Hail Presidential Scholarship
 - Beam Suntory Foundation Scholarship
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sarveshsea&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999&icon_color=999999&hide=stars" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=sarveshsea&hide_border=true&background=000000&ring=999999&fire=ffffff&currStreakLabel=ffffff&sideLabels=999999&currStreakNum=ffffff&sideNums=999999&dates=777777" />
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=sarveshsea&color=999999&style=flat-square&label=Profile+Views" />
 </div>
 
