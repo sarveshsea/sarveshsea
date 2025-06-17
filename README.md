@@ -84,7 +84,6 @@ Data-driven Product Designer with expertise in UX/UI design, software developmen
 - 2023 PwC & Niantic Buildfest 1st Place Winner
 - Tom and Bitsey Hail Presidential Scholarship
 - Beam Suntory Foundation Scholarship
-  <img src="https://komarev.com/ghpvc/?username=sarveshsea&color=999999&style=flat-square&label=Profile+Views" />
 </div>
 
 <!-- "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs -->
