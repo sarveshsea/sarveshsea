@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>SARVESH CHIDAMBARAM</h1>
+  <h1>SARVESH C.</h1>
   <p>
     <a href="https://sarveshsea.framer.website" target="_blank">Portfolio</a> •
     <a href="https://www.linkedin.com/in/sarveshchidambaram/" target="_blank">LinkedIn</a> •
@@ -16,5 +16,3 @@ Data-driven Product Designer with expertise in UX/UI design, software developmen
 
 - **University of Pennsylvania** | M.S. in Computer and Information Technology *(Expected Dec 2026)*
 - **University of Texas at Austin** | B.S. in Advertising, Specialization: Interaction Design *(Dec 2024)*
-
-<!-- "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs -->
