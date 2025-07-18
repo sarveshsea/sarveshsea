@@ -10,7 +10,7 @@
 
 ## About
 
-Data-driven Product Designer with expertise in UX/UI design, software development, and data analytics. Experienced in report development, usability testing, and data storytelling, with a focus on optimizing workflows and uncovering actionable insights.
+Data-driven Product Designer with expertise in UX/UI design and data analytics. Experienced in report development, usability testing, and data storytelling, with a focus on optimizing workflows and uncovering actionable insights.
 
 ## Education
 
