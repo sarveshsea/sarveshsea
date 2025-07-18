@@ -7,9 +7,6 @@
     <a href="https://www.instagram.com/sarv.sea/" target="_blank">Instagram</a>
   </p>
 </div>
-
-## About
-
 Data-driven Product Designer with expertise in UX/UI design and data analytics. Experienced in report development, usability testing, and data storytelling, with a focus on optimizing workflows and uncovering actionable insights.
 
 ## Education
