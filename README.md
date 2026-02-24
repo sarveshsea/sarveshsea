@@ -9,7 +9,7 @@ status......................online
 
 $ whoami
 
-Senior Product Designer operating at the intersection of
+Product Designer operating at the intersection of
 AI systems, enterprise UX, and decision intelligence.
 
 I build labor intelligence systems, forecasting platforms,
